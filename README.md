@@ -1,2 +1,3 @@
 # Mars
-zuru git learning.
+- zuru git learning.
+- A new line of code
